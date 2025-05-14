@@ -34,7 +34,7 @@ p {
 }
 
 img {
-    max-width: 90%;
+    max-width: 60%;
 }
 
 @media (max-width: 768px) {
