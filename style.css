@@ -34,7 +34,7 @@ p {
 }
 
 img {
-    max-width: 32%;
+    max-width: 25%;
 }
 
 @media (max-width: 768px) {
