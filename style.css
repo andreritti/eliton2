@@ -37,6 +37,12 @@ img {
     border-radius: 50px;
 }
 
+img:hover {
+    transition: ease-in-out 100ms;
+    transform: scale(1.0);
+    cursor: pointer;
+}
+
 @media (max-width: 768px) {
     .conteudo {
         width: 90%;
