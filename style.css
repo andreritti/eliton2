@@ -23,7 +23,12 @@ body {
     line-height: 1.6;
     text-align: center;
 }
-
+body {
+    primary-color: var(--primary-color);
+    color: var(--text-color);
+    line-height: 1.6;
+    text-align: center;
+}
 h3 {
     margin-top: 25px;
 }
