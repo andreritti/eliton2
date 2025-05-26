@@ -26,7 +26,7 @@ body {
 header {
     background-color: var(--primary-color);
     color: var(--text-color);
-    line-height: 1.6;
+    line-height: 1;
 }
 h3 {
     margin-top: 25px;
