@@ -6,7 +6,7 @@
     --text-color: #024959;
     --background-color: #F2E3D5;
     --button-hover: #012E40;
-    --font-body: "Chocolate Classical Sans", serif;
+
     --font-titulo: "Rakkas", serif;
 }
 
@@ -14,7 +14,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: var(--font-body);
+    font-family: "Chocolate Classical Sans", serif;
 }
 
 body {
