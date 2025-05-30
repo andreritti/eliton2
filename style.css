@@ -18,13 +18,13 @@
 
 body {
     background-color: #F2E3D5;
-    color: #000000;
+    color: black;
     line-height: 1.6;
     text-align: center;
 }
 header {
-    background-color: #026773;
-    color: #024959;
+    background-color: #3CA6A6;
+    color: black;
     line-height: 1;
 }
 h3 {
