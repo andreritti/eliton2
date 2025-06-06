@@ -30,6 +30,7 @@ header {
   background-color: rgba(0, 0, 0, 0.6);
   padding: 40px 20px;
   width: 100%;
+  text-align: center;
 }
 
 header h1 {
@@ -59,7 +60,6 @@ nav ul li a:hover {
   text-decoration: underline;
 }
 
-/* ==== CONTEÚDO ==== */
 main {
   padding: 40px 20px;
 }
@@ -109,14 +109,12 @@ ul {
   background-color: #014652;
 }
 
-/* ==== IFRAME RESPONSIVO ==== */
 iframe {
   margin-top: 20px;
   max-width: 100%;
   border-radius: 8px;
 }
 
-/* ==== FOOTER ==== */
 footer {
   background-color: #024959;
   color: #fff;
@@ -138,7 +136,6 @@ footer {
   background-color: #027373;
 }
 
-/* ==== RESPONSIVO ==== */
 @media (max-width: 768px) {
   nav ul {
     flex-direction: column;
